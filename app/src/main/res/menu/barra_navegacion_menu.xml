@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_inicio"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Inicio"
+
+        />
+    <item
+        android:id="@+id/nav_opcion2"
+        android:icon="@drawable/baseline_local_grocery_store_24"
+        android:title="Opcion2"
+
+        />
+    <item
+        android:id="@+id/nav_opcion3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_notifications_24"
+        android:title="Opcion 3" />
+    <item
+        android:id="@+id/nav_opcion4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_location_on_24"
+        android:title="Opcion 4" />
+
+</menu>
